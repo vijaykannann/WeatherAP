@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by VJ's iMAC on 05/05/20.
+  Copyright © 2020 Deuglo. All rights reserved.
+*/
+
+"empty" = "Field should not be empty";
+
